@@ -29,6 +29,7 @@ Table 1: Dataset with information of failures for each asset id.
 
 
 | Field name  |	Description |
+|-------------|-------------|
 | Asset id |	Asset code. The code represents a complete run of the asset until its failure. After its failure it is replace by another asset with id + 1 code |
 | runtime |	A measure of time that resets after failure |
 | Setting1	| Set point 1 |
