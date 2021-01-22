@@ -7,12 +7,15 @@ The following is a fictional case study designed to loosely resemble the work yo
 
 ## Scenario:
 Paper CO is an important player that produces mainly cellulose providing this important material for the paper makers and for their own paper machines. The market is becoming more and more challenging due to international prices downfall of cellulose, see Figure 1.
+<p>
 
-<center><img src="./img/prices.png">
+<center><img src="./img/prices.png"></center>
 
-Figure 1 – Wood pulp price in China in RMB 
-(source: http://www.sunsirs.com/uk/prodetail-958.html)
-</center>
+<center>Figure 1 – Wood pulp price in China in RMB </center>
+
+<center>(**source**: http://www.sunsirs.com/uk/prodetail-958.html)</center>
+
+<p>
 
 Due the challenging scenario, Paper Co is starting a project to reduce costs in maintenance avoiding over maintain some specific assets and keeping the same availability of all the process. To perform that, it will be necessary to predict failures in the selected assets. 
 The head of the operations has asked whether it is possible to predict such events and based on your answers he will change the maintenance plans. 
