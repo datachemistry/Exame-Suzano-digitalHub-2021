@@ -24,3 +24,7 @@ The first phase is to check the viability of a **RUL (remaining useful life)** o
 Using the trained model, you should **score for each asset id on the test data providing the information if the asset will failure after more 20 cycles (probability 0-1) or (preferably) how many cycles left the asset still has (RUL)**. You will submit the test file output which have to contain a single column and one line for each test sample (100) providing the information above.
 Your prediction will be scored using quality KPIs for machine learning algorithms, be prepared to comment the KPIs during the interview. You can simulate scenarios to demonstrate how the model perform against a naive process of changing the asset in a fixed period.
 Finally, you will have to answer how the maintenance team will use your model to reduce costs. 
+
+# Resolução
+
+Para acessar o Notebook qclique aqui: [Notebook](./Desafio-HubDigital.ipynb)
