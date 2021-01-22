@@ -44,4 +44,4 @@ Table 1: Dataset with information of failures for each asset id.
 
 # Resolução
 
-Para acessar o Notebook qclique aqui: [Notebook](./Desafio-HubDigital.ipynb)
+Para acessar o Notebook clique aqui: [Notebook](./Desafio-HubDigital.ipynb)
