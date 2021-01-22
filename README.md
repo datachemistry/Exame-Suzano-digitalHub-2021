@@ -13,7 +13,7 @@ Paper CO is an important player that produces mainly cellulose providing this im
 
 <center>Figure 1 – Wood pulp price in China in RMB </center>
 
-<center>(**source**: http://www.sunsirs.com/uk/prodetail-958.html)</center>
+<center>( **source** : http://www.sunsirs.com/uk/prodetail-958.html)</center>
 
 <p>
 
