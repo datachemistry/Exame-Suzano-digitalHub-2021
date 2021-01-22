@@ -25,6 +25,22 @@ Using the trained model, you should **score for each asset id on the test data p
 Your prediction will be scored using quality KPIs for machine learning algorithms, be prepared to comment the KPIs during the interview. You can simulate scenarios to demonstrate how the model perform against a naive process of changing the asset in a fixed period.
 Finally, you will have to answer how the maintenance team will use your model to reduce costs. 
 
+Table 1: Dataset with information of failures for each asset id.
+
+
+| Field name  |	Description |
+| Asset id |	Asset code. The code represents a complete run of the asset until its failure. After its failure it is replace by another asset with id + 1 code |
+| runtime |	A measure of time that resets after failure |
+| Setting1	| Set point 1 |
+| Setting2	| Set point 2 |
+| Setting3  | Set point 3 |
+|Tag1 |	Sensor 1 |
+|Tag2 |	Sensor 2 |
+| … | … |
+|Tag21 | Sensor 3 |
+
+
+
 # Resolução
 
 Para acessar o Notebook qclique aqui: [Notebook](./Desafio-HubDigital.ipynb)
